@@ -5,3 +5,7 @@ Add styles or override variables from the theme here.
 */
 
 $secondary: #1a3a51;
+
+.navbar-nav .td-search {
+    display: none!important;
+}
